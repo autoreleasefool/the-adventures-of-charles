@@ -42,7 +42,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-## Graphics License
+## Asset License
 
 ```
 All graphics and sounds used within The Adventures of Charles are licensed CC0
