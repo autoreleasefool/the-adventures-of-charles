@@ -8,7 +8,7 @@ Overall, I felt the project was a success as I learned a great deal about time a
 
 ![TAOC - Overhead](/../screenshots/screen_overhead.png)
 ![TAOC - Slugs](/../screenshots/screen_slugs.png)
-![TAOC - Snails](/../screenshots/screen_snails.png)
+![TAOC - Snails](/../screenshots/screen_snail.png)
 
 ## The Future
 
